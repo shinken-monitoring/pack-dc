@@ -18,7 +18,10 @@
 	"repository": "https://github.com/shinken-monitoring/pack-dc",
 	"keywords": [
 	  "pack",
-	  
+	  "microsoft",
+	  "active directory",
+	  "dc",
+	  "domain controler"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
