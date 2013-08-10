@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-dc",
 	"author": "Jean Gabes",
-	"description": "Microsoft Active Directory domain controler checks, for replications",
+	"description": "Microsoft Active Directory domain controler replication monitoring",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -19,6 +19,7 @@
 	"keywords": [
 	  "pack",
 	  "microsoft",
+	  "replication",
 	  "active directory",
 	  "dc",
 	  "domain controler"
